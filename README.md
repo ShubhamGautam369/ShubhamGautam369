@@ -40,8 +40,7 @@ I am continuously improving my analytical and problem-solving skills by building
 - Pandas  
 
 ## 📌 ⚡ Other Skills & Tools
-- Git
-- GitHub
+- Git & GitHub
 - VS Code
 - Problem Solving
 - Data Visualization
