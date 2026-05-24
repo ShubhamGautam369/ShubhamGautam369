@@ -1,38 +1,104 @@
 # Hi there, I'm Shubham Gautam 👋
 
-🎓 Computer Science Engineering Student (B.Tech, 2022–2026)  
-💻 Passionate about **Data Structures & Algorithms, Web Development, and Problem Solving**  
-🚀 Currently learning **Full-Stack Development (React, Node.js,)**  
-📌 Open to **Internships / Placement Opportunities** in 2026  
+🎓 B.Tech Computer Science Engineering Student (2022–2026)  
+📊 Aspiring Data Analyst passionate about turning raw data into meaningful insights  
+💡 Skilled in Data Analytics, Dashboard Development, SQL, Excel, Power BI, Pandas, NumPy and AI-powered tools  
+🚀 Currently learning Advanced Data Analytics and Python  
+📌 Open to Data Analytics Internships & Placement Opportunities in 2026  
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Java, C++, C, JavaScript
-- **Frontend:** HTML, CSS, ReactJS
-- **Backend:** NodeJS, Express, Spring Boot
-- **Database:** MySQL
-- **Other Tools:** Git, GitHub, VS Code, Postman
+# 📊 About Me
+
+I am a Computer Science Engineering student with a strong interest in Data Analytics and Business Intelligence. I enjoy working with data, identifying patterns, and building dashboards that help in decision-making.
+
+I have hands-on experience with:
+
+- Data Cleaning & Data Visualization  
+- SQL Queries & Database Management  
+- Power BI Dashboard Development  
+- Microsoft Excel & Advanced Excel Functions  
+- Python for Data Analysis  
+- AI Tools for Productivity & Analytics  
+
+I am continuously improving my analytical and problem-solving skills by building projects and learning industry-relevant tools.
 
 ---
 
-## 📂 Featured Projects
-🔹 [DSA with Java](https://github.com/ShubhamGautam369/DSA-with-java) – Solutions & explanations of Data Structures & Algorithms problems.  
-🔹 [Portfolio Website](#) – Personal portfolio built using HTML, CSS, JavaScript.  
-🔹 [Full-Stack Web App](#) – MERN (API + Frontend + Database).  
+# 🛠️ Skills & Tools
 
-*(Replace `#` with actual repo links once projects are uploaded)*
+## 📌 Programming Languages
+- Python  
+- SQL  
+- Java  
+
+## 📌 Data Analytics Tools
+- Microsoft Excel  
+- Power BI  
+- MySQL  
+- NumPy  
+- Pandas  
+
+## 📌 Excel Skills
+- Pivot Tables  
+- VLOOKUP / XLOOKUP  
+- Conditional Formatting  
+- Charts & Graphs  
+- Data Cleaning  
+- Dashboard Creation  
+
+## 📌 Power BI Skills
+- Data Transformation  
+- Data Modeling  
+- DAX Basics  
+- Interactive Dashboards  
+- KPI Visualization  
+
+## 📌 Other Skills
+- Problem Solving  
+- Data Visualization  
+- Teamwork  
+- Communication Skills  
+- Time Management  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamGautam369&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGautam369&layout=compact&theme=tokyonight)
+# 📂 Projects
+
+## 📈 HR Analytics Dashboard
+- Created an interactive HR Analytics Dashboard using Power BI  
+- Analyzed employee attrition, salary trends, and department performance  
+- Used Power Query for data cleaning and transformation  
+- Built visual KPIs and charts for better business insights  
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/shubham-gautam-24512428b/](#)
-- Email: **shubhamgautam9685@gmail.com**
+# 📚 Currently Learning
+- Advanced Power BI  
+- Python for Data Analytics  
+- Data Visualization Best Practices  
+- AI in Data Analytics  
 
-⭐️ From [ShubhamGautam369](https://github.com/ShubhamGautam369)
+---
+
+# 🏆 Certifications
+- Data Analytics Course Certification  
+- Java with DSA Course Certification  
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/shubhamgautam369](https://www.linkedin.com/in/shubhamgautam369)  
+- 📧 Email: shubhamgautam9685@gmail.com  
+- 📱 Phone No.: +91 9685341617  
+
+---
+
+# 📈 GitHub Stats
+
+```text
+📊 Data Analytics Enthusiast
+💻 Building Real-World Projects
+📚 Continuous Learner
+🚀 Future Data Analyst
