@@ -39,27 +39,13 @@ I am continuously improving my analytical and problem-solving skills by building
 - NumPy  
 - Pandas  
 
-## 📌 Excel Skills
-- Pivot Tables  
-- VLOOKUP / XLOOKUP  
-- Conditional Formatting  
-- Charts & Graphs  
-- Data Cleaning  
-- Dashboard Creation  
-
-## 📌 Power BI Skills
-- Data Transformation  
-- Data Modeling  
-- DAX Basics  
-- Interactive Dashboards  
-- KPI Visualization  
-
-## 📌 Other Skills
-- Problem Solving  
-- Data Visualization  
-- Teamwork  
-- Communication Skills  
-- Time Management  
+## 📌 ⚡ Other Skills & Tools
+- Git
+- GitHub
+- VS Code
+- Problem Solving
+- Data Visualization
+- Analytical Thinking
 
 ---
 
